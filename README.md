@@ -2,9 +2,9 @@
 This is a CNN project that uses a brain MRI pictures. The goal is to recognize brain MRI pictures have tumor or not.
 
 # Dataset
-_**Source** :
-_**Target** : 
+- **Source** : https://github.com/zione-kushwaha/Brain-Tumor-detection-MRI-/tree/main/data
+- **Target** : 
 
 # Method 
-_**Language** : python
-_**Libraries** : os, sklearn, tensorflow, keras, numpy, matplotlib
+- **Language** : python
+- **Libraries** : os, sklearn, tensorflow, keras, numpy, matplotlib
