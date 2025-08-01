@@ -1,5 +1,5 @@
 # Brain Tumor Classification Using CNN on MRI images
-This is a CNN project that uses a brain MRI images.
+This project uses CNN to analyse brain MRI images and determine whether a tumor is present or not.
 
 # Dataset
 The dataset consists of 253 MRI images divided into:
